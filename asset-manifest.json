@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StockApp/static/css/main.90840378.chunk.css",
-    "main.js": "/StockApp/static/js/main.2d7091b7.chunk.js",
-    "main.js.map": "/StockApp/static/js/main.2d7091b7.chunk.js.map",
+    "main.js": "/StockApp/static/js/main.5dcece56.chunk.js",
+    "main.js.map": "/StockApp/static/js/main.5dcece56.chunk.js.map",
     "runtime-main.js": "/StockApp/static/js/runtime-main.769bb056.js",
     "runtime-main.js.map": "/StockApp/static/js/runtime-main.769bb056.js.map",
     "static/css/2.47e06e2e.chunk.css": "/StockApp/static/css/2.47e06e2e.chunk.css",
     "static/js/2.bd6f03a6.chunk.js": "/StockApp/static/js/2.bd6f03a6.chunk.js",
     "static/js/2.bd6f03a6.chunk.js.map": "/StockApp/static/js/2.bd6f03a6.chunk.js.map",
     "index.html": "/StockApp/index.html",
-    "precache-manifest.8e245a58242dc2084cae988ab209d24e.js": "/StockApp/precache-manifest.8e245a58242dc2084cae988ab209d24e.js",
+    "precache-manifest.b0333154e9be92d001d7c2bfb0b33bfc.js": "/StockApp/precache-manifest.b0333154e9be92d001d7c2bfb0b33bfc.js",
     "service-worker.js": "/StockApp/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/StockApp/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.90840378.chunk.css.map": "/StockApp/static/css/main.90840378.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.bd6f03a6.chunk.js",
     "static/css/main.90840378.chunk.css",
-    "static/js/main.2d7091b7.chunk.js"
+    "static/js/main.5dcece56.chunk.js"
   ]
 }
