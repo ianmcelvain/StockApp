@@ -64,7 +64,7 @@ export default class ChartLineComparison extends Component {
             this.chartReference.chartInstance.update();
         } else {
             this.setState({
-                errorText: 'Invalid stock Incorrect stock symbol. Try again with caps.'
+                errorText: 'Incorrect stock symbol. Try again with caps.'
             });
         }
 
