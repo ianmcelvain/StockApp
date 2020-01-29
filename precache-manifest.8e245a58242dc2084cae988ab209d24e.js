@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5c562578c7287787d664d25491f9453",
+    "revision": "65efcb0f6216bc0c826b3781f3b38a05",
     "url": "/StockApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StockApp/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "4979b7d3c325054f8d9c",
+    "revision": "902ab0831e4097c6a294",
     "url": "/StockApp/static/css/main.90840378.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StockApp/static/js/2.bd6f03a6.chunk.js.LICENSE"
   },
   {
-    "revision": "4979b7d3c325054f8d9c",
-    "url": "/StockApp/static/js/main.850a532c.chunk.js"
+    "revision": "902ab0831e4097c6a294",
+    "url": "/StockApp/static/js/main.2d7091b7.chunk.js"
   },
   {
     "revision": "29d6114c2ae12e575ef4",
