@@ -49,9 +49,9 @@ export default class Dashboard extends Component {
         let response = await this.helper.getData(name,time);
 
         if(response != 'error') {
-            this.props.handleStockData(test);
+            this.props.handleStockData(response);
             this.setState({
-                compareChartData: test,
+                compareChartData: response,
                 chartTime: time
             });
         } else {
