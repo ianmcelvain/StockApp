@@ -17,3 +17,4 @@ App that displays stock market data currently
 - Flask
 - Alpaca API
 - Heroku
+- Repo https://github.com/OdincoGaming/Stock-Trading
