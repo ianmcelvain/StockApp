@@ -1,5 +1,5 @@
 ## About
-App that displays stock market data currently 
+App that displays stock market data currently. In collaboration with https://github.com/OdincoGaming
 
 ## Goals
 - Add prediction bot to backend.
